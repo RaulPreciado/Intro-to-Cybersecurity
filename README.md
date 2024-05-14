@@ -5,8 +5,11 @@ https://tryhackme.com/paths
 ## Objectives:
 
 -Careers in Cyber Security
+
 -Offensive Security; hacking your first application 
+
 -Defensive Security; defending against a live cyber attack 
+
 -Exploring security topics in the industry
 
 ## My Experience:
@@ -38,6 +41,7 @@ Try to log in as johnny and figure out password > use “history” to check com
 4. NETWORK SECURITY
 
 get root access on the target system of IP address 10.10.130.202:
+
 <img width="468" alt="image" src="https://github.com/RaulPreciado/Intro-to-Cybersecurity/assets/122322695/252bae13-c96b-4083-88d5-a42d8b136d41">
 
 
